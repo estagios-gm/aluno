@@ -1,0 +1,15 @@
+{
+  "short_name": "Estágios GM",
+  "name": "Estágios GM - IF Baiano - Campus Governador Mangabeira",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#00500a"
+}
