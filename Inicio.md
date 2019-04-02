@@ -17,12 +17,12 @@ Para dar início a seu estágio curricular obrigatório siga as seguintes recome
     
 4. **REQUERIMENTO**  
 Com todas as informações necessárias:
-
-**> Preencha** o Requerimento de Estágio (acesse **[aqui](#requerimento)**);  
-**> Imprima** o Requerimento de Estágio;  
-**> Providencie** todas as assinaturas necessárias;  
-**> Protocole** o Requerimento de Estágio no NURI-GM;  
-**> Aguarde** contato do NURI-GM.
+    
+  **> Preencha** o Requerimento de Estágio (acesse **[aqui](#requerimento)**);  
+  **> Imprima** o Requerimento de Estágio;  
+  **> Providencie** todas as assinaturas necessárias;  
+  **> Protocole** o Requerimento de Estágio no NURI-GM;  
+  **> Aguarde** contato do NURI-GM.
 
   Não havendo contratempos, sua documentação de estágio será entregue em até 24 horas.
 
