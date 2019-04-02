@@ -1,2 +1,2 @@
 ## Estágios GM
-### [Página do Discente](https://estagios-gm.github.io/discente)
+### [Área do Aluno](https://estagios-gm.github.io/aluno)
