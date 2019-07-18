@@ -2,7 +2,7 @@
 Para dar início a seu estágio curricular obrigatório siga as seguintes recomendações:
 
 1. **Informe-se sobre o estágio**  
-    Inicialmente, entenda como funciona o Estágio Curricular Obrigatório e consulte o Projeto Pedagógico do seu Curso (acesse **[aqui](http://www.ifbaiano.edu.br/unidades/gmb/estagio-curricular/discente/conhecimento/)**).
+    Inicialmente, entenda como funciona o Estágio Curricular Obrigatório e consulte o Projeto Pedagógico do seu Curso (acesse **[aqui](https://rebrand.ly/nurigm-informacoes-estagiario)**).
     
     **>** Se necessário, procure o Núcleo de Relações Institucionais (NURI) do IFBAIANO no campus Governador Mangabeira para esclarecer dúvidas.  
     
@@ -13,7 +13,7 @@ Para dar início a seu estágio curricular obrigatório siga as seguintes recome
     **>** Se não estiver cadastrado, clique **[aqui](#proposta_concedente)** para propor o cadastro e aguarde o contato do NURI.
     
 3. **Colete as informações necessárias**  
-    Depois de estar ciente das diretrizes que orientam o estágio curricular obrigatório, reuna todas as informações necessárias para preencher o requerimento de estágio (acesse **[aqui](http://www.ifbaiano.edu.br/unidades/gmb/files/2019/04/dados_importantes.pdf)**).  
+    Depois de estar ciente das diretrizes que orientam o estágio curricular obrigatório, reuna todas as informações necessárias para preencher o requerimento de estágio (acesse **[aqui](https://rebrand.ly/nurigm-rascunho-req-estagio)**).  
     
 4. **REQUERIMENTO**  
     Com todas as informações necessárias:
