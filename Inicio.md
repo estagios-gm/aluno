@@ -27,4 +27,5 @@ Para dar início ao seu estágio curricular obrigatório, siga as seguintes reco
   Não havendo contratempos, sua documentação de estágio será entregue em até 24 horas.
 
   **Contatos:**  
-  **> E-mail**: [nuri@gm.ifbaiano.edu.br](mailto:nuri@gm.ifbaiano.edu.br)
+  - **E-mail**: [nuri@gm.ifbaiano.edu.br](mailto:nuri@gm.ifbaiano.edu.br)
+  - **Whatsapp**: [(75)99853-2821](https://wa.me/+5575998532821)
